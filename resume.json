@@ -1,0 +1,47 @@
+{
+  "name" : "Shweta Kohad",
+  "contact" : {
+    "phone" : 8669988621,
+    "email-id" : "shwetakohad22@gmail.com",
+    "address" : "180,vyankatesh nagar, Nagpur",
+    "state" : "Maharashtra"
+  },
+  "summary" : "As a recent graduate with a deep passion for web development with a strong fundation in both frontend and backend development. Seeking an entry-level position to apply my skills and knowledge gained through academic coursework and personal projects, I am eager to embark on my career as a Full Stack Developer. I am excited to contribute my skills and grow as a professional in a dynamic development environment.",
+  "Education" : [{
+    "BE" : "Yeshwantrao Chavhan college of Engineering",
+    "graduation-year" : "2018-2023",
+    "department":"Electronics and Telecommunication",
+    "CGPA": 7.08},
+    {
+      "HSC" : "Taywade Jr College",
+      "graduation-year" : 2018,
+      "percetage" : 65.38
+    } ,  
+    {
+      "SSC": "Adarsh Vidhya Mandir",
+      "graduation-year":2016,
+      "percetage":76.90
+    }
+  ],
+  "Technical Skills": "python, javaScript, Html, CSS, Bootstrap",
+  "Soft Skills": "nnovative Thinker, Management Skills, Effective Communicator,Strong Leadership",
+  "Internship": {
+    "Company-Name" : "Internship At Innovations For Me Solution",
+    "title":"Web Development ",
+    "period": "01/2023 - 07/2023",
+    "responsibility": "Developed and tested web applications using HTML, CSS,JavaScript, and React.Analyzed project requirements and created wireframes for websites.Debugged existing code to improve website functionality"
+  },
+  "certification": {
+    "certificate1": "Minor project and BS4 conclusion by unschools",
+    "certificate2": "python programming language by udemy",
+    "certificate3": "CSS Bootstrap and JavaScript by udemy"
+},
+  "project":{
+    "unschools":"Created a digital portfolio showcasing my work.Utilized HTML, CSS, Bootstrap, and JavaScript for the frontend development.Designed and developed a user-friendly and responsive portfolio."
+  },
+  "Position of Responsibility" : {
+    "Co-head -Data committee":"Skilfully managed and organized comprehensive data for YCCE college's prestigious college fest",
+    "Member of YCCE Media ": "Responsible for capturing all college events, managing magazines, and overseeing institutional clubs at YCCE College"
+  }
+ }
+
